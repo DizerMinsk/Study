@@ -7,7 +7,7 @@ public class Main1 {
         String surName = "PLINDA";
         String city = "MINSK";
         int age = 37;
-
+//добавил изменения
 
         System.out.println("Fullname: " + name + " " + surName);
         System.out.println("City: " + city);
